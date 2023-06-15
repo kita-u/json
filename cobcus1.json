@@ -4,5 +4,13 @@
       "id": 1,
       "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "score": {
+    "初等科国語": "A",
+    "教職概論": "C",
+    "教育原論": "C"
+  }
 }
